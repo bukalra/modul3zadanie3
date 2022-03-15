@@ -182,4 +182,7 @@ for each in models:
   warstwa3[splitted_models[0]] = warstwa2
   index +=1
   
-print (warstwa3)'''
+print (warstwa3)
+
+#this is something that is written to test the test bracj
+'''
