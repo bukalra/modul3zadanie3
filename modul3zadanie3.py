@@ -184,5 +184,5 @@ for each in models:
   
 print (warstwa3)
 
-# modification that is written to test the test bracj
+#  that is written to test the test bracj
 '''
